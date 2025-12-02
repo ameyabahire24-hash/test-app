@@ -1,6 +1,5 @@
 streamlit
-plotly
 pandas
 numpy
+plotly
 statsmodels
-pillow
