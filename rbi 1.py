@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import plotly as pl 
 import plotly.graph_objects as go
 import plotly.express as px
 from statsmodels.tsa.arima.model import ARIMA
